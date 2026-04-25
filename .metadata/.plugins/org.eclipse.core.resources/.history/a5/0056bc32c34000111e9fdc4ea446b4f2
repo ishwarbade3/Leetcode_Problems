@@ -24,6 +24,5 @@ public class Problem_67 {
       }
 
       return result.reverse().toString();
-	}
 
 }
